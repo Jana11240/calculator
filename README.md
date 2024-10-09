@@ -11,5 +11,5 @@
 
 ## Images
 
-<img width="368" alt="image" src="https://github.com/user-attachments/assets/857312e6-7b2c-41c9-9dcd-7c861ceb5ff3">
-<img width="365" alt="image" src="https://github.com/user-attachments/assets/4120a3d8-621d-498f-8891-686ff59649cf">
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/857312e6-7b2c-41c9-9dcd-7c861ceb5ff3">
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/4120a3d8-621d-498f-8891-686ff59649cf">
